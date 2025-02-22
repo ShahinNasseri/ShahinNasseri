@@ -15,6 +15,7 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="angular" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="angular" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
@@ -25,7 +26,7 @@
   
 </p>
 
-- 💬 Ask me about: .NET, clean-architecture, SQL Performance Tuning, TSQL, Angular 2+ Performance Tips, Angular architecture, javascript
+- 💬 Ask me about: Angular, React , React-Native , .NET, clean-architecture, SQL Performance Tuning, TSQL, FrontEnd Performance Tips, Angular architecture, javascript
 - 👯 I’m looking to collaborate on: .NET/SQL Server Database/ Angular projects
 
 </br>
